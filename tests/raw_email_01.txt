@@ -1,0 +1,52 @@
+Delivered-To: someotherpersonwhodoesntreallyexist@gmail.com
+Received: by 10.123.123.12 with SMTP id zasdf7cfefwesp632189wex;
+        Wed, 20 Aug 2014 19:37:04 -0700 (PDT)
+X-Received: by 10.123.123.33 with SMTP id ky6mr54453452pbc.61.1408552624269;
+        Wed, 20 Aug 2014 19:37:04 -0700 (PDT)
+Return-Path: <algorithmia.io@gmail.com>
+Received: from mail-pd0-x44b.google.com (mail-pd0-x44b.google.com [26:f8b0:400e:c02::44b])
+        by mx.google.com with ESMTPS id rc10si32527041pdb.242.2014.08.20.09.44.44
+        for <someotherpersonwhodoesntreallyexist@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 20 Aug 2014 09:37:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of algorithmia.io@gmail.com designates 2602:f8b0:400e:bff::44b as permitted sender) client-ip=2602:f8b0:400e:bff::44b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of algorithmia.io@gmail.com designates 2602:f8b0:400e:bff::44b as permitted sender) smtp.mail=algorithmia.io@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pd0-x22b.google.com with SMTP id z10so12139717pdj.30
+        for <someotherpersonwhodoesntreallyexist@gmail.com>; Wed, 20 Aug 2014 09:37:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:date:to:message-id:subject:mime-version:content-type;
+        bh=SLzyUOSy04oedGXstlJMt4Dj8bvATySL6mKfFnw=;
+        b=nABD2ONtgk+eQA6TG/N7BzAxdraRw4dqWKmoDFRL0LxW5CVu+h1TLJnBIkEOXf
+         8gzcChL1k2pOgu6BR4i8+bhozDp1IyUEtk4Qwb53VbSWu2YQ3/60lx3EJ0Qy
+         njDy5epUJ4GAA8kPdt8jmHJE6ZfOgsNMVPeNfUO7IyiOiXGICDv+jOai9p9
+         BUaosqlH/3SzqPQNaqANDX2BrA045mIU/0gOapnRsKzV0oIQ0Hp8IXLiCJsuhD1Xo
+         iyF43VF2haHFC4a9Y5uOWNuJKdnew/aZr0k3jL9Rn5umraRiDiZ8dWWl6yeRSgKUhsCO
+         IYxw==
+X-Received: by 10.26.220.121 with SMTP id wc5mr52521499pac.87.1408552623653;
+        Wed, 20 Aug 2014 09:37:03 -0700 (PDT)
+Return-Path: <algorithmia.io@gmail.com>
+Received: from algorithmia.com (algorithmia.com. [112.211.115.18])
+        by mx.google.com with ESMTPSA id ib51111151811pbb.11.2014.08.20.09.37.02
+        for <someotherpersonwhodoesntreallyexist@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 20 Aug 2014 09:37:03 -0700 (PDT)
+From: algorithmia.io@gmail.com
+X-Google-Original-From: diego@algorithmia.com
+Date: Wed, 20 Aug 2014 12:36:59 -0400 (EDT)
+To: someotherpersonwhodoesntreallyexist@gmail.com
+Message-ID: <56035.683.148561945.JvaMail.algo@algorithmia.com>
+Subject: Algorithmia private beta registration
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_682_1797370764.1408552619450"
+
+------=_Part_682_1797370764.140852619450
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Thank your for registering for Algorithmia's private beta. You have been added to the queue and should hear from us soon.
+------=_Part_682_1797370764.140852619450--
