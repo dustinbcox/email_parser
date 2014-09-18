@@ -1,2 +1,5 @@
 TODO
 ====
+Improve the unit testing
+Handle Multiple To address better in the email header
+Support proper MIME
