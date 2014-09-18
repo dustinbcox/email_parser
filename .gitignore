@@ -3,6 +3,9 @@ bin/
 include/
 man/
 
+#Vim stuff
+.*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
