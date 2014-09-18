@@ -1,5 +1,6 @@
 TODO
 ====
-Improve the unit testing
 Handle Multiple To address better in the email header
+Improve the unit testing to improve (unit test) code coverage
 Support proper MIME
+Allow property fields to create an email (perhaps plain text for now)
